@@ -1,0 +1,11 @@
+
+endpoints 
+
+Register user
+Login user
+who am i 
+add new product
+update new product
+get all products
+get single product
+delete a products
